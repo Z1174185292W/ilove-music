@@ -1,7 +1,5 @@
-# Mini Music Player - VueJS
+#音乐播放器小组件  ❤music - VueJS
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/JavaScriptJunkie/pen/qBWrRyg](https://codepen.io/JavaScriptJunkie/pen/qBWrRyg).
+##预览地址
+`https://luohaozhe.github.io/ilove-music/`
 
-Mini Music Player built with VueJs. design by Voicu Apostol on dribbble. 
-
-design: https://dribbble.com/shots/3533847-Mini-Music-Player
